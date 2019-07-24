@@ -1,52 +1,142 @@
 {
-  "Huawei P20 Pro": [
+  "Night": [
     {
-      "height": 6389,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190426_003412.min.jpg",
-      "width": 4059,
+      "height": 5735,
+      "compressed_path": "./photos/Night/IMG_20190426_001119.min.jpg",
+      "width": 5204,
       "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190426_003412.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190426_003412.jpg"
+      "placeholder_path": "./photos/Night/IMG_20190426_001119.placeholder.jpg",
+      "path": "./photos/Night/IMG_20190426_001119.jpg"
     },
     {
       "height": 4407,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_224957.min.jpg",
+      "compressed_path": "./photos/Night/IMG_20190425_224957.min.jpg",
       "width": 5472,
       "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190425_224957.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190425_224957.jpg"
+      "placeholder_path": "./photos/Night/IMG_20190425_224957.placeholder.jpg",
+      "path": "./photos/Night/IMG_20190425_224957.jpg"
     },
     {
-      "height": 5693,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_225350.min.jpg",
-      "width": 5472,
+      "height": 6389,
+      "compressed_path": "./photos/Night/IMG_20190426_003412.min.jpg",
+      "width": 4059,
       "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190425_225350.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190425_225350.jpg"
-    },
-    {
-      "height": 5356,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_225605.min.jpg",
-      "width": 5472,
-      "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190425_225605.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190425_225605.jpg"
+      "placeholder_path": "./photos/Night/IMG_20190426_003412.placeholder.jpg",
+      "path": "./photos/Night/IMG_20190426_003412.jpg"
     },
     {
       "height": 7296,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_233353.min.jpg",
+      "compressed_path": "./photos/Night/IMG_20190425_233353.min.jpg",
       "width": 5472,
       "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190425_233353.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190425_233353.jpg"
+      "placeholder_path": "./photos/Night/IMG_20190425_233353.placeholder.jpg",
+      "path": "./photos/Night/IMG_20190425_233353.jpg"
     },
     {
-      "height": 5735,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190426_001119.min.jpg",
-      "width": 5204,
+      "height": 5693,
+      "compressed_path": "./photos/Night/IMG_20190425_225350.min.jpg",
+      "width": 5472,
       "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190426_001119.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190426_001119.jpg"
+      "placeholder_path": "./photos/Night/IMG_20190425_225350.placeholder.jpg",
+      "path": "./photos/Night/IMG_20190425_225350.jpg"
+    },
+    {
+      "height": 5356,
+      "compressed_path": "./photos/Night/IMG_20190425_225605.min.jpg",
+      "width": 5472,
+      "compressed": true,
+      "placeholder_path": "./photos/Night/IMG_20190425_225605.placeholder.jpg",
+      "path": "./photos/Night/IMG_20190425_225605.jpg"
+    }
+  ],
+  "Nature": [
+    {
+      "height": 7296,
+      "compressed_path": "./photos/Nature/IMG_20181106_122436.min.jpg",
+      "width": 5472,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181106_122436.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181106_122436.jpg"
+    },
+    {
+      "height": 1812,
+      "compressed_path": "./photos/Nature/IMG_20181110_145531.min.jpg",
+      "width": 2374,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181110_145531.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181110_145531.jpg"
+    },
+    {
+      "height": 5472,
+      "compressed_path": "./photos/Nature/IMG_20190713_160509.min.jpg",
+      "width": 7296,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20190713_160509.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20190713_160509.jpg"
+    },
+    {
+      "height": 3648,
+      "compressed_path": "./photos/Nature/IMG_20181111_102727.min.jpg",
+      "width": 2736,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181111_102727.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181111_102727.jpg"
+    },
+    {
+      "height": 5472,
+      "compressed_path": "./photos/Nature/IMG_20190624_164135.min.jpg",
+      "width": 7296,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20190624_164135.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20190624_164135.jpg"
+    },
+    {
+      "height": 7296,
+      "compressed_path": "./photos/Nature/IMG_20181219_154146.min.jpg",
+      "width": 5472,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181219_154146.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181219_154146.jpg"
+    },
+    {
+      "height": 2095,
+      "compressed_path": "./photos/Nature/IMG_20181110_145240.min.jpg",
+      "width": 3648,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181110_145240.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181110_145240.jpg"
+    },
+    {
+      "height": 2736,
+      "compressed_path": "./photos/Nature/IMG_20181110_142540.min.jpg",
+      "width": 3648,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181110_142540.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181110_142540.jpg"
+    },
+    {
+      "height": 7296,
+      "compressed_path": "./photos/Nature/IMG_20181221_111704.min.jpg",
+      "width": 5472,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20181221_111704.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20181221_111704.jpg"
+    },
+    {
+      "height": 5472,
+      "compressed_path": "./photos/Nature/IMG_20190624_164439.min.jpg",
+      "width": 6546,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20190624_164439.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20190624_164439.jpg"
+    },
+    {
+      "height": 3555,
+      "compressed_path": "./photos/Nature/IMG_20190714_133725.min.jpg",
+      "width": 6615,
+      "compressed": true,
+      "placeholder_path": "./photos/Nature/IMG_20190714_133725.placeholder.jpg",
+      "path": "./photos/Nature/IMG_20190714_133725.jpg"
     }
   ]
 }

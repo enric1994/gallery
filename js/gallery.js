@@ -41,7 +41,6 @@ class Renderer {
   }
 
   createHeader(title) {
-    title = '';
     var sectionElem = document.createElement('section');
     sectionElem.id = title;
     var header = document.createElement('h3');
