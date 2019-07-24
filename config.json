@@ -1,31 +1,15 @@
 {
   "Huawei P20 Pro": [
     {
-      "height": 7296,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_233024.min.jpg",
-      "width": 5472,
+      "height": 6389,
+      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190426_003412.min.jpg",
+      "width": 4059,
       "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190425_233024.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190425_233024.jpg"
+      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190426_003412.placeholder.jpg",
+      "path": "./photos/Huawei P20 Pro/IMG_20190426_003412.jpg"
     },
     {
-      "height": 7296,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190604_233627.min.jpg",
-      "width": 5472,
-      "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190604_233627.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190604_233627.jpg"
-    },
-    {
-      "height": 7296,
-      "compressed_path": "./photos/Huawei P20 Pro/IMG_20190604_225000.min.jpg",
-      "width": 5472,
-      "compressed": true,
-      "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190604_225000.placeholder.jpg",
-      "path": "./photos/Huawei P20 Pro/IMG_20190604_225000.jpg"
-    },
-    {
-      "height": 7296,
+      "height": 4407,
       "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_224957.min.jpg",
       "width": 5472,
       "compressed": true,
@@ -33,7 +17,7 @@
       "path": "./photos/Huawei P20 Pro/IMG_20190425_224957.jpg"
     },
     {
-      "height": 7296,
+      "height": 5693,
       "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_225350.min.jpg",
       "width": 5472,
       "compressed": true,
@@ -41,7 +25,7 @@
       "path": "./photos/Huawei P20 Pro/IMG_20190425_225350.jpg"
     },
     {
-      "height": 7296,
+      "height": 5356,
       "compressed_path": "./photos/Huawei P20 Pro/IMG_20190425_225605.min.jpg",
       "width": 5472,
       "compressed": true,
@@ -57,9 +41,9 @@
       "path": "./photos/Huawei P20 Pro/IMG_20190425_233353.jpg"
     },
     {
-      "height": 7296,
+      "height": 5735,
       "compressed_path": "./photos/Huawei P20 Pro/IMG_20190426_001119.min.jpg",
-      "width": 5472,
+      "width": 5204,
       "compressed": true,
       "placeholder_path": "./photos/Huawei P20 Pro/IMG_20190426_001119.placeholder.jpg",
       "path": "./photos/Huawei P20 Pro/IMG_20190426_001119.jpg"
